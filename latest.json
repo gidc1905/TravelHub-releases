@@ -1,9 +1,9 @@
 {
- "versionCode": 6,
- "versionName": "0.4.0",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.0/TravelHub-0.4.0.apk",
- "sha256": "c6fda5c572db6458ed7c816cdc23858bb7af227c648eba61f76fc5ef7cef70f3",
- "size": 64508022,
+ "versionCode": 7,
+ "versionName": "0.4.1",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.1/TravelHub-0.4.1.apk",
+ "sha256": "2e12f49b366ed1408bca67813ab16085473341dfc99c0c58b599deac1a66ca9b",
+ "size": 64508018,
  "notes": [
   "준비물 직접 추가·숨기기, 귀국 전 두고 오기 쉬운 물건 체크",
   "여행 당일 '지금' 카드와 '지금부터 다시 짜기'(되돌리기 가능)",
