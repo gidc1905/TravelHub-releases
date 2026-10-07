@@ -1,0 +1,15 @@
+{
+ "versionCode": 6,
+ "versionName": "0.4.0",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.0/TravelHub-0.4.0.apk",
+ "sha256": "c6fda5c572db6458ed7c816cdc23858bb7af227c648eba61f76fc5ef7cef70f3",
+ "size": 64508022,
+ "notes": [
+  "준비물 직접 추가·숨기기, 귀국 전 두고 오기 쉬운 물건 체크",
+  "여행 당일 '지금' 카드와 '지금부터 다시 짜기'(되돌리기 가능)",
+  "비상·숙소 화면: 택시 기사에게 숙소 주소 보여주기, 내 위치 보내기",
+  "서류 보관함과 오프라인 준비 점검",
+  "여행 성향(빡빡/보통/여유), 영업시간 출처 표시, 내 주변 찜 장소",
+  "폰에서 바로 새 버전 받기, 설정에 사용 설명서"
+ ]
+}
