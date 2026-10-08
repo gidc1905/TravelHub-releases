@@ -1,10 +1,12 @@
 {
- "versionCode": 13,
- "versionName": "0.4.7",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.7/TravelHub-0.4.7.apk",
- "sha256": "378d78cb5f291d3c1b64850d001571ecca11fc54cf53a75bfa7fa29ad3706f97",
- "size": 65165662,
+ "versionCode": 15,
+ "versionName": "0.4.9",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.9/TravelHub-0.4.9.apk",
+ "sha256": "116b68ab1fa68a0cef41b2d99b6db5ccfc71ab516e7000f622e6cb29a9ef184c",
+ "size": 66976583,
  "notes": [
-  "가게 주인이 현지어로 쓴 소개글을 한국어로 번역해 보여 줘요 (\"원문 보기\"로 원래 글도 볼 수 있어요)"
+  "그림 일정: 하루 일정을 동선 따라 귀여운 손그림 카드로 보여 주고 사진으로 저장·공유해요 (일정 탭의 '그림 일정 보기')",
+  "지도가 돌아가지 않게 고정했어요 (항상 북쪽이 위)",
+  "지도의 예전 손그림 지도 버튼은 뺐어요"
  ]
 }
