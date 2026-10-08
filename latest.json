@@ -1,15 +1,14 @@
 {
- "versionCode": 7,
- "versionName": "0.4.1",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.1/TravelHub-0.4.1.apk",
- "sha256": "2e12f49b366ed1408bca67813ab16085473341dfc99c0c58b599deac1a66ca9b",
- "size": 64508018,
+ "versionCode": 8,
+ "versionName": "0.4.2",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.2/TravelHub-0.4.2.apk",
+ "sha256": "28196e4c2b3cc12a2865084bc27c77956f5e9bf49340c68b3e8e1d056495d996",
+ "size": 64590198,
  "notes": [
-  "준비물 직접 추가·숨기기, 귀국 전 두고 오기 쉬운 물건 체크",
-  "여행 당일 '지금' 카드와 '지금부터 다시 짜기'(되돌리기 가능)",
-  "비상·숙소 화면: 택시 기사에게 숙소 주소 보여주기, 내 위치 보내기",
-  "서류 보관함과 오프라인 준비 점검",
-  "여행 성향(빡빡/보통/여유), 영업시간 출처 표시, 내 주변 찜 장소",
-  "폰에서 바로 새 버전 받기, 설정에 사용 설명서"
+  "휴대폰에 보이는 앱 이름을 PBTM에서 TravelHub로 바꿨어요",
+  "구글맵에서 공유한 장소가 앞서 공유한 장소에 합쳐져 사라지던 문제를 고쳤어요",
+  "위치를 아직 모르는 공유 장소도 찜 목록에 바로 보여요",
+  "구글맵 저장 목록을 통째로 공유하면 목록 안 장소를 한 번에 가져와요",
+  "공유한 장소가 여행지 밖이면 그 이유를 알려 줘요"
  ]
 }
