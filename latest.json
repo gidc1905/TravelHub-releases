@@ -1,14 +1,10 @@
 {
- "versionCode": 12,
- "versionName": "0.4.6",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.6/TravelHub-0.4.6.apk",
- "sha256": "6862ef50d2ec5355d5f39b8d0efae44b43cf9b8bd0b45ac6078c6375ef77291e",
- "size": 65083654,
+ "versionCode": 13,
+ "versionName": "0.4.7",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.7/TravelHub-0.4.7.apk",
+ "sha256": "378d78cb5f291d3c1b64850d001571ecca11fc54cf53a75bfa7fa29ad3706f97",
+ "size": 65165662,
  "notes": [
-  "공유한 장소의 구글 정보를 빠짐없이 가져와요: 전화, 웹사이트, 평점·리뷰 수, 요일별 영업시간, 공휴일 안내, 소개글, 현지 이름, 편의시설, 주변 장소 등",
-  "호텔은 등급, 체크인·체크아웃, 예약 사이트별 가격까지 보여요",
-  "장소를 열 때마다 영업시간과 영업 중/종료를 구글에서 새로 확인해요",
-  "사진 3장이 붙어 나오던 썸네일을 첫 장만 잘라 보여 줘요 (예전 장소도 다시 받아요)",
-  "장소 화면 아래에 블로그·후기 링크를 달았어요"
+  "가게 주인이 현지어로 쓴 소개글을 한국어로 번역해 보여 줘요 (\"원문 보기\"로 원래 글도 볼 수 있어요)"
  ]
 }
