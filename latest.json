@@ -1,11 +1,10 @@
 {
- "versionCode": 17,
- "versionName": "0.4.11",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.11/TravelHub-0.4.11.apk",
- "sha256": "06f6cb9e79e412f2836910b4b6d711617ff3cb7d3010e83e7d6f755fa730e700",
- "size": 67075063,
+ "versionCode": 18,
+ "versionName": "0.4.12",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.12/TravelHub-0.4.12.apk",
+ "sha256": "b524628703b0494a4f968976e06227535c2a6b94e73cdbdb8edebc2341fcf01a",
+ "size": 67075067,
  "notes": [
-  "난카이난바처럼 역 이름으로 공유한 장소가 계속 '위치 미확인'이던 문제를 고쳤어요 (예전에 넣은 장소도 다시 찾아요)",
-  "위치를 모르는 장소 화면에 '지도에서 위치 직접 찍기' 버튼을 달았어요"
+  "여행을 아직 만들지 않았어도 앱을 열면 새 버전이 있는지 확인해요"
  ]
 }
