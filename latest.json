@@ -1,12 +1,11 @@
 {
- "versionCode": 15,
- "versionName": "0.4.9",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.9/TravelHub-0.4.9.apk",
- "sha256": "116b68ab1fa68a0cef41b2d99b6db5ccfc71ab516e7000f622e6cb29a9ef184c",
- "size": 66976583,
+ "versionCode": 16,
+ "versionName": "0.4.10",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.10/TravelHub-0.4.10.apk",
+ "sha256": "7369bb0ba89804a75f9d1cb513c15de4a365b6cf3604d2c1ebfc2255f559851f",
+ "size": 67074979,
  "notes": [
-  "그림 일정: 하루 일정을 동선 따라 귀여운 손그림 카드로 보여 주고 사진으로 저장·공유해요 (일정 탭의 '그림 일정 보기')",
-  "지도가 돌아가지 않게 고정했어요 (항상 북쪽이 위)",
-  "지도의 예전 손그림 지도 버튼은 뺐어요"
+  "그림 일정에서 이모지 그림과 장소 실제 사진 중에 골라 볼 수 있어요 ('😊 그림 / 📷 사진')",
+  "'성수 카페'가 성 그림, '지역 식당'이 역 그림으로 나오던 것처럼 장소 그림이 엉뚱하게 골라지던 문제를 고쳤어요"
  ]
 }
