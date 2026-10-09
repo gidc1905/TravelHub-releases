@@ -1,11 +1,11 @@
 {
- "versionCode": 16,
- "versionName": "0.4.10",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.10/TravelHub-0.4.10.apk",
- "sha256": "7369bb0ba89804a75f9d1cb513c15de4a365b6cf3604d2c1ebfc2255f559851f",
- "size": 67074979,
+ "versionCode": 17,
+ "versionName": "0.4.11",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.11/TravelHub-0.4.11.apk",
+ "sha256": "06f6cb9e79e412f2836910b4b6d711617ff3cb7d3010e83e7d6f755fa730e700",
+ "size": 67075063,
  "notes": [
-  "그림 일정에서 이모지 그림과 장소 실제 사진 중에 골라 볼 수 있어요 ('😊 그림 / 📷 사진')",
-  "'성수 카페'가 성 그림, '지역 식당'이 역 그림으로 나오던 것처럼 장소 그림이 엉뚱하게 골라지던 문제를 고쳤어요"
+  "난카이난바처럼 역 이름으로 공유한 장소가 계속 '위치 미확인'이던 문제를 고쳤어요 (예전에 넣은 장소도 다시 찾아요)",
+  "위치를 모르는 장소 화면에 '지도에서 위치 직접 찍기' 버튼을 달았어요"
  ]
 }
