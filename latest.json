@@ -1,10 +1,11 @@
 {
- "versionCode": 22,
- "versionName": "0.4.16",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.16/TravelHub-0.4.16.apk",
- "sha256": "17dca23668a2272b19e26ec4be1a473cd496d17fa27bb13ddc4af91d08c36c9b",
- "size": 67239811,
+ "versionCode": 23,
+ "versionName": "0.4.17",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.17/TravelHub-0.4.17.apk",
+ "sha256": "678cb9986be12d64a64a6fc334b940db604aa74acd8775188f216551d4715f40",
+ "size": 100282492,
  "notes": [
-  "일정 탭 '날 바꾸기'로 두 날의 일정을 통째로 맞바꿀 수 있어요 (예: 1일차 ↔ 2일차)"
+  "지출·정산에서 '영수증 찍기'로 가게·날짜·합계를 자동으로 채워요 (폰 안에서만 읽어요)",
+  "영수증 사진이 지출에 붙어 저장되고, 면세 영수증은 귀국 날 확인 목록으로 모여요"
  ]
 }
