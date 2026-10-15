@@ -1,10 +1,10 @@
 {
- "versionCode": 21,
- "versionName": "0.4.15",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.15/TravelHub-0.4.15.apk",
- "sha256": "8798a18631d29b2afd7ac673b552197e64e1c1a20c8cbe8a307be570ffbee8e0",
- "size": 67239627,
+ "versionCode": 22,
+ "versionName": "0.4.16",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.16/TravelHub-0.4.16.apk",
+ "sha256": "17dca23668a2272b19e26ec4be1a473cd496d17fa27bb13ddc4af91d08c36c9b",
+ "size": 67239811,
  "notes": [
-  "지도에서 다른 날 경로나 모든 날 경로를 골라 볼 수 있어요"
+  "일정 탭 '날 바꾸기'로 두 날의 일정을 통째로 맞바꿀 수 있어요 (예: 1일차 ↔ 2일차)"
  ]
 }
