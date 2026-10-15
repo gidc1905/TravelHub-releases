@@ -1,12 +1,10 @@
 {
- "versionCode": 20,
- "versionName": "0.4.14",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.14/TravelHub-0.4.14.apk",
- "sha256": "33e0ba2c5a3230663571cbdaed655b3c4b8e8ed66cd1c2b2c8d5b74f111f4c93",
- "size": 67239431,
+ "versionCode": 21,
+ "versionName": "0.4.15",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.15/TravelHub-0.4.15.apk",
+ "sha256": "8798a18631d29b2afd7ac673b552197e64e1c1a20c8cbe8a307be570ffbee8e0",
+ "size": 67239627,
  "notes": [
-  "일정 칸마다 메모를 남길 수 있어요",
-  "날짜 줄 맨 앞 '전체'로 모든 날 일정을 한 화면에서 봐요",
-  "폰 아래쪽 홈·뒤로 버튼이 다시 항상 보여요, 새 버전은 집 NAS에서 받아요"
+  "지도에서 다른 날 경로나 모든 날 경로를 골라 볼 수 있어요"
  ]
 }
