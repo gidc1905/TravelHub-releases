@@ -1,11 +1,10 @@
 {
- "versionCode": 23,
- "versionName": "0.4.17",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.17/TravelHub-0.4.17.apk",
- "sha256": "678cb9986be12d64a64a6fc334b940db604aa74acd8775188f216551d4715f40",
- "size": 100282492,
+ "versionCode": 24,
+ "versionName": "0.4.18",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.18/TravelHub-0.4.18.apk",
+ "sha256": "fcbf539d79b059377c409fea0a80baa861511264bbe4e49cffd1eeadc38cd42f",
+ "size": 100282504,
  "notes": [
-  "지출·정산에서 '영수증 찍기'로 가게·날짜·합계를 자동으로 채워요 (폰 안에서만 읽어요)",
-  "영수증 사진이 지출에 붙어 저장되고, 면세 영수증은 귀국 날 확인 목록으로 모여요"
+  "앱을 열 때마다 새 버전이 있는지 확인해요 (예전엔 6시간에 한 번)"
  ]
 }
