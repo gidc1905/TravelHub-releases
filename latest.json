@@ -1,12 +1,10 @@
 {
- "versionCode": 25,
- "versionName": "0.4.19",
- "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.19/TravelHub-0.4.19.apk",
- "sha256": "4e94178788174e315554396ce7be337086f3def5113ca1fe4e341831b15e981e",
- "size": 100299016,
+ "versionCode": 27,
+ "versionName": "0.4.21",
+ "apkUrl": "https://github.com/gidc1905/TravelHub-releases/releases/download/v0.4.21/TravelHub-0.4.21.apk",
+ "sha256": "dd852ee1f59cc91e6381202692c14633a2232b7723e191366eaf359944742679",
+ "size": 100299020,
  "notes": [
-  "장소 화면에서 종류(기차역·호텔·테마파크 등)를 눌러 직접 고칠 수 있어요",
-  "이름 뒤에 주소가 붙어 나오던 장소 이름을 고쳤어요",
-  "공유 장소를 한 번 다시 읽어 영업시간과 사진(3장 모음 → 1장)을 채워요"
+  "앱 안쪽 보안 정리 마무리 (쓰는 방법은 그대로예요)"
  ]
 }
